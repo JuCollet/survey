@@ -1,0 +1,10 @@
+{
+  "mailJet": {
+    "user": "",
+    "password": "",
+    "to": "",
+    "from": "\"Name\" <email-address>"
+  },
+  "urls": [],
+  "delay": 60000
+}
