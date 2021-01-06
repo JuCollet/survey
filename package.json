@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "html-differ": "^1.4.0",
     "nodemailer": "^6.4.6"
   }
